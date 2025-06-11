@@ -96,7 +96,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 **D. Hanoch Raj**
-[GitHub]([(https://github.com/Hanoch2004)]) • [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/Hanoch2004)
 
 ---
 
